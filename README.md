@@ -53,7 +53,9 @@ If no recognized module system is present, access bundle contents via the global
 ```html
 <script type="text/javascript">
 (function () {
+(function () {
     window.cauchy;
+})();
 })();
 </script>
 ```
@@ -138,9 +140,11 @@ var median = dist.median;
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-cauchy@umd/browser.js"></script>
 <script type="text/javascript">
 (function () {
+(function () {
 
 console.log( objectKeys( cauchy ) );
 
+})();
 })();
 </script>
 </body>
@@ -232,23 +236,23 @@ Copyright &copy; 2016-2022. The Stdlib [Authors][stdlib-authors].
 
 <!-- <toc-links> -->
 
-[@stdlib/stats/base/dists/cauchy/ctor]: https://github.com/stdlib-js/stats-base-dists-cauchy-ctor/tree/umd
+[@stdlib/stats/base/dists/cauchy/ctor]: https://github.com/stdlib-js/stats-base-dists-cauchy-ctor/tree/umd/tree/umd
 
-[@stdlib/stats/base/dists/cauchy/entropy]: https://github.com/stdlib-js/stats-base-dists-cauchy-entropy/tree/umd
+[@stdlib/stats/base/dists/cauchy/entropy]: https://github.com/stdlib-js/stats-base-dists-cauchy-entropy/tree/umd/tree/umd
 
-[@stdlib/stats/base/dists/cauchy/median]: https://github.com/stdlib-js/stats-base-dists-cauchy-median/tree/umd
+[@stdlib/stats/base/dists/cauchy/median]: https://github.com/stdlib-js/stats-base-dists-cauchy-median/tree/umd/tree/umd
 
-[@stdlib/stats/base/dists/cauchy/mode]: https://github.com/stdlib-js/stats-base-dists-cauchy-mode/tree/umd
+[@stdlib/stats/base/dists/cauchy/mode]: https://github.com/stdlib-js/stats-base-dists-cauchy-mode/tree/umd/tree/umd
 
-[@stdlib/stats/base/dists/cauchy/cdf]: https://github.com/stdlib-js/stats-base-dists-cauchy-cdf/tree/umd
+[@stdlib/stats/base/dists/cauchy/cdf]: https://github.com/stdlib-js/stats-base-dists-cauchy-cdf/tree/umd/tree/umd
 
-[@stdlib/stats/base/dists/cauchy/logcdf]: https://github.com/stdlib-js/stats-base-dists-cauchy-logcdf/tree/umd
+[@stdlib/stats/base/dists/cauchy/logcdf]: https://github.com/stdlib-js/stats-base-dists-cauchy-logcdf/tree/umd/tree/umd
 
-[@stdlib/stats/base/dists/cauchy/logpdf]: https://github.com/stdlib-js/stats-base-dists-cauchy-logpdf/tree/umd
+[@stdlib/stats/base/dists/cauchy/logpdf]: https://github.com/stdlib-js/stats-base-dists-cauchy-logpdf/tree/umd/tree/umd
 
-[@stdlib/stats/base/dists/cauchy/pdf]: https://github.com/stdlib-js/stats-base-dists-cauchy-pdf/tree/umd
+[@stdlib/stats/base/dists/cauchy/pdf]: https://github.com/stdlib-js/stats-base-dists-cauchy-pdf/tree/umd/tree/umd
 
-[@stdlib/stats/base/dists/cauchy/quantile]: https://github.com/stdlib-js/stats-base-dists-cauchy-quantile/tree/umd
+[@stdlib/stats/base/dists/cauchy/quantile]: https://github.com/stdlib-js/stats-base-dists-cauchy-quantile/tree/umd/tree/umd
 
 <!-- </toc-links> -->
 
