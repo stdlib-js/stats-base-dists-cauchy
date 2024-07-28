@@ -42,13 +42,13 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import cauchy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-cauchy@deno/mod.js';
+import cauchy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-cauchy@v0.2.2-deno/mod.js';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { Cauchy, cdf, entropy, logcdf, logpdf, median, mode, pdf, quantile } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-cauchy@deno/mod.js';
+import { Cauchy, cdf, entropy, logcdf, logpdf, median, mode, pdf, quantile } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-cauchy@v0.2.2-deno/mod.js';
 ```
 
 #### cauchy
@@ -125,7 +125,7 @@ var median = dist.median;
 
 ```javascript
 import objectKeys from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-keys@deno/mod.js';
-import cauchy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-cauchy@deno/mod.js';
+import cauchy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-cauchy@v0.2.2-deno/mod.js';
 
 console.log( objectKeys( cauchy ) );
 ```
