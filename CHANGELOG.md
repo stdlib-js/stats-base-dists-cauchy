@@ -4,9 +4,124 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-01)
+## Unreleased (2024-12-30)
 
-No changes reported for this release.
+<section class="packages">
+
+### Packages
+
+<section class="package" id="stats-base-dists-cauchy-entropy-unreleased">
+
+#### [@stdlib/stats/base/dists/cauchy/entropy](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/cauchy/entropy)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`ea671df`](https://github.com/stdlib-js/stdlib/commit/ea671dfde903d2ef3f3640ae8ea9505fcaeff726) - add C implementation for `stats/base/dists/cauchy/entropy` [(#3961)](https://github.com/stdlib-js/stdlib/pull/3961)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+##### Closed Issues
+
+This release closes the following issue:
+
+[#3480](https://github.com/stdlib-js/stdlib/issues/3480)
+
+</section>
+
+<!-- /.issues -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="stats-base-dists-cauchy-mode-unreleased">
+
+#### [@stdlib/stats/base/dists/cauchy/mode](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/cauchy/mode)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`f5f16d3`](https://github.com/stdlib-js/stdlib/commit/f5f16d3a7fb02c9bd000b0d0d53e7d12b19b097b) - add C implementation for `stats/base/dists/cauchy/mode` [(#3952)](https://github.com/stdlib-js/stdlib/pull/3952)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+##### Closed Issues
+
+This release closes the following issue:
+
+[#3484](https://github.com/stdlib-js/stdlib/issues/3484)
+
+</section>
+
+<!-- /.issues -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+</section>
+
+<!-- /.packages -->
+
+<section class="issues">
+
+### Closed Issues
+
+A total of 2 issues were closed in this release:
+
+[#3480](https://github.com/stdlib-js/stdlib/issues/3480), [#3484](https://github.com/stdlib-js/stdlib/issues/3484)
+
+</section>
+
+<!-- /.issues -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 2 people contributed to this release. Thank you to the following contributors:
+
+-   Philipp Burckhardt
+-   Vivek maurya
+
+</section>
+
+<!-- /.contributors -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`f5f16d3`](https://github.com/stdlib-js/stdlib/commit/f5f16d3a7fb02c9bd000b0d0d53e7d12b19b097b) - **feat:** add C implementation for `stats/base/dists/cauchy/mode` [(#3952)](https://github.com/stdlib-js/stdlib/pull/3952) _(by Vivek maurya, Philipp Burckhardt)_
+-   [`8bf8285`](https://github.com/stdlib-js/stdlib/commit/8bf8285aba0ecbd00ae145c4c5c098cd28135814) - **chore:** minor clean-up _(by Philipp Burckhardt)_
+-   [`ea671df`](https://github.com/stdlib-js/stdlib/commit/ea671dfde903d2ef3f3640ae8ea9505fcaeff726) - **feat:** add C implementation for `stats/base/dists/cauchy/entropy` [(#3961)](https://github.com/stdlib-js/stdlib/pull/3961) _(by Vivek maurya, Philipp Burckhardt)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
 
 </section>
 
