@@ -42,13 +42,18 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import cauchy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-cauchy@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/stats-base-dists-cauchy/tags). For example,
+
+```javascript
 import cauchy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-cauchy@v0.3.0-deno/mod.js';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { Cauchy, cdf, entropy, logcdf, logpdf, median, mode, pdf, quantile } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-cauchy@v0.3.0-deno/mod.js';
+import { Cauchy, cdf, entropy, logcdf, logpdf, median, mode, pdf, quantile } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-cauchy@deno/mod.js';
 ```
 
 #### cauchy
@@ -125,7 +130,7 @@ var median = dist.median;
 
 ```javascript
 import objectKeys from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-keys@deno/mod.js';
-import cauchy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-cauchy@v0.3.0-deno/mod.js';
+import cauchy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-cauchy@deno/mod.js';
 
 console.log( objectKeys( cauchy ) );
 ```
