@@ -42,13 +42,18 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import cauchy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-cauchy@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/stats-base-dists-cauchy/tags). For example,
+
+```javascript
 import cauchy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-cauchy@v0.3.1-esm/index.mjs';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { Cauchy, cdf, entropy, logcdf, logpdf, median, mode, pdf, quantile } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-cauchy@v0.3.1-esm/index.mjs';
+import { Cauchy, cdf, entropy, logcdf, logpdf, median, mode, pdf, quantile } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-cauchy@esm/index.mjs';
 ```
 
 #### cauchy
@@ -130,7 +135,7 @@ var median = dist.median;
 <script type="module">
 
 import objectKeys from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-keys@esm/index.mjs';
-import cauchy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-cauchy@v0.3.1-esm/index.mjs';
+import cauchy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-cauchy@esm/index.mjs';
 
 console.log( objectKeys( cauchy ) );
 
