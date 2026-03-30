@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-02-16)
+## Unreleased (2026-03-30)
 
 <section class="commits">
 
@@ -12,6 +12,8 @@
 
 <details>
 
+-   [`f9dbbfa`](https://github.com/stdlib-js/stdlib/commit/f9dbbfaf48e1830f1c9fb685856eac2edba3fac6) - **docs:** fix C examples [(#11138)](https://github.com/stdlib-js/stdlib/pull/11138) _(by anee3, Athan Reines)_
+-   [`0feb882`](https://github.com/stdlib-js/stdlib/commit/0feb882c947d76d28bc6a7cd6b32d1c3431611d2) - **bench:** use single-colon for method and property access benchmarks _(by Philipp Burckhardt)_
 -   [`564b95d`](https://github.com/stdlib-js/stdlib/commit/564b95d10f2ba27c7ecc0db98712df489458c657) - **bench:** refactor to use string interpolation in `stats/base/dists/cauchy` [(#10249)](https://github.com/stdlib-js/stdlib/pull/10249) _(by Vishal Gaikwad, Philipp Burckhardt)_
 
 </details>
@@ -24,10 +26,12 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Philipp Burckhardt
 -   Vishal Gaikwad
+-   anee3
 
 </section>
 
