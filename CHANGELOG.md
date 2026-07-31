@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-06-14)
+## Unreleased (2026-07-31)
 
 <section class="commits">
 
@@ -12,6 +12,8 @@
 
 <details>
 
+-   [`2180fed`](https://github.com/stdlib-js/stdlib/commit/2180fed844c032e1dd39b8465fa44d934b3d94fc) - **docs:** add link [(#13406)](https://github.com/stdlib-js/stdlib/pull/13406) _(by Philipp Burckhardt)_
+-   [`ca49ceb`](https://github.com/stdlib-js/stdlib/commit/ca49ceb1e17979e0ecb77bc50dedd14b7515b46f) - **refactor:** rename internal variable [(#13167)](https://github.com/stdlib-js/stdlib/pull/13167) _(by Philipp Burckhardt)_
 -   [`77195c3`](https://github.com/stdlib-js/stdlib/commit/77195c343d9d48e264a58f8ec213d0df53ca7317) - **docs:** update namespace table of contents [(#12835)](https://github.com/stdlib-js/stdlib/pull/12835) _(by stdlib-bot)_
 -   [`cae5335`](https://github.com/stdlib-js/stdlib/commit/cae53357950b4c389b0020878c268995cd79d222) - **docs:** propagate develop fixes to sibling packages [(#12736)](https://github.com/stdlib-js/stdlib/pull/12736) _(by Philipp Burckhardt)_
 -   [`8d60f41`](https://github.com/stdlib-js/stdlib/commit/8d60f410502fcc75f7d3dc133a20b9202ce7f324) - **docs:** fix JSDoc descriptions [(#12637)](https://github.com/stdlib-js/stdlib/pull/12637) _(by Philipp Burckhardt)_
