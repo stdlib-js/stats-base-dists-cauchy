@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-08-01)
+## Unreleased (2026-09-20)
 
 <section class="commits">
 
@@ -12,6 +12,9 @@
 
 <details>
 
+-   [`1936b0b`](https://github.com/stdlib-js/stdlib/commit/1936b0bdf1e7f3a459e0a93666f63d4f2f907045) - **test:** migrate `stats/base/dists/cauchy/pdf` to ULP-based assertions [(#15349)](https://github.com/stdlib-js/stdlib/pull/15349) _(by Athan Reines)_
+-   [`cf9ab99`](https://github.com/stdlib-js/stdlib/commit/cf9ab991a7e946101483a34adc6b9ba596dd8577) - **test:** migrate `stats/base/dists/cauchy/cdf` to ULP-based assertions [(#15284)](https://github.com/stdlib-js/stdlib/pull/15284) _(by Athan Reines)_
+-   [`67c4846`](https://github.com/stdlib-js/stdlib/commit/67c4846c9a91051e0c1a964272242f6896695c6e) - **test:** migrate `stats/base/dists/cauchy/logpdf` to ULP-based assertions [(#14989)](https://github.com/stdlib-js/stdlib/pull/14989) _(by Athan Reines)_
 -   [`2180fed`](https://github.com/stdlib-js/stdlib/commit/2180fed844c032e1dd39b8465fa44d934b3d94fc) - **docs:** add link [(#13406)](https://github.com/stdlib-js/stdlib/pull/13406) _(by Philipp Burckhardt)_
 -   [`ca49ceb`](https://github.com/stdlib-js/stdlib/commit/ca49ceb1e17979e0ecb77bc50dedd14b7515b46f) - **refactor:** rename internal variable [(#13167)](https://github.com/stdlib-js/stdlib/pull/13167) _(by Philipp Burckhardt)_
 -   [`77195c3`](https://github.com/stdlib-js/stdlib/commit/77195c343d9d48e264a58f8ec213d0df53ca7317) - **docs:** update namespace table of contents [(#12835)](https://github.com/stdlib-js/stdlib/pull/12835) _(by stdlib-bot)_
