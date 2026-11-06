@@ -1,0 +1,3 @@
+"use strict";var r=require('@stdlib/utils-define-read-only-property/dist'),e={};r(e,"cdf",require('@stdlib/stats-base-dists-cauchy-cdf/dist'));r(e,"Cauchy",require('@stdlib/stats-base-dists-cauchy-ctor/dist'));r(e,"entropy",require('@stdlib/stats-base-dists-cauchy-entropy/dist'));r(e,"logcdf",require('@stdlib/stats-base-dists-cauchy-logcdf/dist'));r(e,"logpdf",require('@stdlib/stats-base-dists-cauchy-logpdf/dist'));r(e,"median",require('@stdlib/stats-base-dists-cauchy-median/dist'));r(e,"mode",require('@stdlib/stats-base-dists-cauchy-mode/dist'));r(e,"pdf",require('@stdlib/stats-base-dists-cauchy-pdf/dist'));r(e,"quantile",require('@stdlib/stats-base-dists-cauchy-quantile/dist'));module.exports=e;
+/** @license Apache-2.0 */
+//# sourceMappingURL=index.js.map
