@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-20)
+## Unreleased (2026-11-06)
 
 <section class="commits">
 
@@ -12,6 +12,9 @@
 
 <details>
 
+-   [`708f3e4`](https://github.com/stdlib-js/stdlib/commit/708f3e41bfe3c45a171f6cc0d436438e51cdd383) - **test:** migrate `stats/base/dists/cauchy/quantile` to ULP-based assertions [(#15943)](https://github.com/stdlib-js/stdlib/pull/15943) _(by Athan Reines)_
+-   [`a3e3463`](https://github.com/stdlib-js/stdlib/commit/a3e346300a2855a4a1bfb48c31f588db0f515121) - **style:** add whitespace [(#15394)](https://github.com/stdlib-js/stdlib/pull/15394) _(by Philipp Burckhardt)_
+-   [`5415582`](https://github.com/stdlib-js/stdlib/commit/5415582c20767abd00cddf753cd804385124d5f4) - **test:** migrate `stats/base/dists/cauchy/logcdf` to ULP-based assertions [(#15263)](https://github.com/stdlib-js/stdlib/pull/15263) _(by Athan Reines)_
 -   [`1936b0b`](https://github.com/stdlib-js/stdlib/commit/1936b0bdf1e7f3a459e0a93666f63d4f2f907045) - **test:** migrate `stats/base/dists/cauchy/pdf` to ULP-based assertions [(#15349)](https://github.com/stdlib-js/stdlib/pull/15349) _(by Athan Reines)_
 -   [`cf9ab99`](https://github.com/stdlib-js/stdlib/commit/cf9ab991a7e946101483a34adc6b9ba596dd8577) - **test:** migrate `stats/base/dists/cauchy/cdf` to ULP-based assertions [(#15284)](https://github.com/stdlib-js/stdlib/pull/15284) _(by Athan Reines)_
 -   [`67c4846`](https://github.com/stdlib-js/stdlib/commit/67c4846c9a91051e0c1a964272242f6896695c6e) - **test:** migrate `stats/base/dists/cauchy/logpdf` to ULP-based assertions [(#14989)](https://github.com/stdlib-js/stdlib/pull/14989) _(by Athan Reines)_
